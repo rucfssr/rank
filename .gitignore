@@ -1,0 +1,10 @@
+# Logs
+*.log
+node_modules/
+typings/
+*.tsbuildinfo
+.npm
+.eslintcache
+.nyc_output
+built
+.idea
